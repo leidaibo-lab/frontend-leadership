@@ -27,9 +27,9 @@
 
 ## 常用 Skill 路由
 
-- 前端团队负责人规划、30+ 团队治理、业务线负责人机制、AI 开发治理闭环、前端负责人向产研 AI 协作架构推动者成长：读取 `.agents/skills/frontend-leadership/frontend-leader/SKILL.md`。
-- 前端组织架构、业务线划分、向上汇报、组织顶层设计：读取 `.agents/skills/frontend-leadership/org-architect/SKILL.md`。
+- 前端团队负责人规划、30+ 团队治理、固定大团队与多子业务线动态扩展、纵横矩阵可经营运行系统、业务线负责人机制、AI 开发治理闭环、前端负责人向产研 AI 协作架构推动者成长：读取 `.agents/skills/frontend-leadership/frontend-leader/SKILL.md`。
+- 前端组织架构、业务线划分、固定大团队与子业务线负责人分层、纵横矩阵运行边界、向上汇报、组织顶层设计：读取 `.agents/skills/frontend-leadership/org-architect/SKILL.md`。
 - 招聘、面试、绩效、1v1、人才梯队、团队稳定性、敏感反馈、高情商沟通：读取 `.agents/skills/frontend-leadership/people-culture-manager/SKILL.md`。
-- 架构、基建、组件库、监控稳定性、AI 效能、质量治理、AI 驱动产研协作架构与治理、AI 驱动产研组织升级操作系统：读取 `.agents/skills/frontend-leadership/tech-efficiency-architect/SKILL.md`。
+- 架构、基建、组件库、监控稳定性、AI 效能、质量治理、横向能力可经营机制、AI 驱动产研协作架构与治理、AI 驱动产研组织升级操作系统：读取 `.agents/skills/frontend-leadership/tech-efficiency-architect/SKILL.md`。
 - Skill 创建规范、目录质量校验、前端负责人文档归属整理、对话共识建议录入：读取 `.agents/skills/company-public/skill-governance/SKILL.md`。
 - AI 落地到真实项目的 OpenSpec/SDD 思路、proposal/spec/tasks 机制理解、模型选择：读取 `.agents/skills/company-public/wf-openspec-mode/SKILL.md`；当前 leader 项目不作为强制实践工作流。

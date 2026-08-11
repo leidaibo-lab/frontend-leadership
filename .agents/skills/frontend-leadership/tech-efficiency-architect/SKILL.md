@@ -4,7 +4,7 @@ description: "技术与效能官。统管【架构、基建、AI、质量】全�
 metadata:
   pattern: "frontend-leadership/tech-efficiency-architect"
   author: "frontend-leadership"
-  version: "0.1.1"
+  version: "0.1.2"
 ---
 
 # 技术与效能官 (Tech & Efficiency Architect)
@@ -40,6 +40,7 @@ metadata:
 *   **适度设计**: 架构设计必须匹配当前的团队规模，避免“过度设计”或“人月神话”。
 *   **业务价值**: 技术决策必须服务于业务目标，避免为了技术而技术（为未来扩展做准备）。
 *   **长期主义**: 关注架构的可维护性和演进能力（沉淀最佳实践）。
+*   **能力可经营**: 工程底座、质量与稳定性、AI研发治理、架构演进必须有单点负责人、季度结果、最低产能和转交退出机制。
 
 ## 常用工具与文档 (References & Assets)
 *   [frontend-ai-efficiency-framework.md](references/frontend-ai-efficiency-framework.md): AI 效能框架
@@ -48,4 +49,5 @@ metadata:
 *   [ai-product-rd-collaboration-architecture.md](references/ai-product-rd-collaboration-architecture.md): AI 驱动产研协作架构、沟通成本治理、质量反推和基础治理
 *   [observability-and-stability-governance.md](references/observability-and-stability-governance.md): Sentry 环境区分与稳定性治理
 *   [base-asset-playbook.md](references/base-asset-playbook.md): 基础资产建设与业务推行
+*   [organization-operating-system.md](../frontend-leader/references/organization-operating-system.md): 四个横向能力方向的产能、结果、节奏、冲突和退出规则
 *   *(后续补充: Tech_Stack_Radar.md, Architecture_Design_Template.md)*

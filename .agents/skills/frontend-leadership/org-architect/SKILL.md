@@ -1,10 +1,10 @@
 ---
 name: "frontend-leadership-org-architect"
-description: "前端组织架构师 (顶层大脑)。统管【战略、业务、公关、高层管理】。当用户询问高层汇报、商业价值、危机公关、跨部门政治或组织顶层设计时调用。"
+description: "前端组织架构师 (顶层大脑)。统管【战略、业务、公关、高层管理】。当用户询问高层汇报、商业价值、危机公关、跨部门政治、固定大团队与多子业务线动态扩展或组织顶层设计时调用。"
 metadata:
   pattern: "frontend-leadership/org-architect"
   author: "frontend-leadership"
-  version: "0.1.0"
+  version: "0.2.1"
 ---
 
 # 前端组织架构师 (Frontend Organization Architect)
@@ -31,6 +31,8 @@ metadata:
 ### 4. 组织顶层设计 (Organizational Design)
 *   **规模化管理**: 根据**前端团队规模**（0-10, 10-20, 20-30+）动态调整组织架构。
     *   **矩阵式管理**: 设计纵向（业务线）+ 横向（虚拟组）的矩阵结构。
+    *   **多子业务线扩展**: 保持大团队和负责人稳定，新业务优先在组内分配，按成熟度动态设置子业务线负责人。
+    *   **可经营运行系统**: 用负责人上限、任命门槛、季度结果、固定节奏和退出条件约束矩阵运行，避免组织图空转。
     *   **BP 机制**: 设立前端 BP (Business Partner) 深入业务。
 
 ## 协作模式 (One Brain, Two Arms)
@@ -42,4 +44,5 @@ metadata:
 *   [managing-business-line-leads-guide.md](references/managing-business-line-leads-guide.md): 业务线负责人管理指南 (How to manage managers)
 *   [management-evolution-methodology.md](references/management-evolution-methodology.md): 前端管理进化论核心参考 (基于前端规模)
 *   [company-delivery-alignment.md](references/company-delivery-alignment.md): 公司交付视角与业务线对齐
+*   [organization-operating-system.md](../frontend-leader/references/organization-operating-system.md): 30人前端团队纵横矩阵的可经营运行系统
 *   *(后续补充: Executive_Report_Template.md, Crisis_PR_Template.md)*
