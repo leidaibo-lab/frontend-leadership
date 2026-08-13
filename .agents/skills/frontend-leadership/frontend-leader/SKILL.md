@@ -4,7 +4,7 @@ description: "前端团队负责人管理规划与实施方案。用于围绕从
 metadata:
   pattern: "frontend-leadership/frontend-leader"
   author: "frontend-leadership"
-  version: "0.4.0"
+  version: "0.5.0"
 ---
 
 # 前端 Leader Skill
@@ -48,6 +48,7 @@ metadata:
 - 需要讲纵向业务团队与工程底座、质量与稳定性、AI研发治理、架构演进四个横向虚拟团队的管理矩阵时，读取 [business-line-management.md](references/business-line-management.md)。
 - 需要讲矩阵如何按季度经营、横向产能如何受控、子业务线如何任命、冲突如何裁决以及虚拟团队如何退出时，读取 [organization-operating-system.md](references/organization-operating-system.md)。
 - 需要记录个人/团队成长证据、月度复盘和评估依据时，读取 [growth-evidence-and-evaluation.md](references/growth-evidence-and-evaluation.md)。
+- 需要把管理实践写成文章、文章系列或分享稿，并显著降低 AI 味时，读取 [management-article-writing.md](references/management-article-writing.md)。
 - 需要讲需求宣讲时间窗、进度可视化和责任留底时，读取 [delivery-accountability-and-timeboxing.md](references/delivery-accountability-and-timeboxing.md)。
 - 需要直接套用近期案例样本来写记录时，读取 [skill-growth-casebook.md](references/skill-growth-casebook.md)。
 - 需要讲AI团队级提效、AI开发闭环和责任边界时，读取 [ai-development-loop.md](references/ai-development-loop.md)。
@@ -93,3 +94,7 @@ metadata:
 - 不把工程资产写成单纯工具堆砌，应上升为集团化前端工程底座。
 - 不把团队扩张写成单纯招聘计划，应写成组织结构、机制和能力复制问题。
 - 不把每个新项目直接升级为新的平级业务线团队，也不把“项目战队结项释放”作为主要组织模型；成员长期归属现有大团队，新业务优先在组内分配并形成子业务线负责人。
+
+## 管理文章写作触发规则
+
+当用户要求写管理文章、文章系列、管理经验分享或把项目沉淀转成对外内容时，必须先读取 [management-article-writing.md](references/management-article-writing.md)。默认走“真实经历 → 事实卡 → AI 反向质疑 → 用户补充个人表达 → 文章结构 → 最后编辑”的流程，不直接把项目材料改写成模板化完整文章。
