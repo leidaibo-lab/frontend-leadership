@@ -4,7 +4,7 @@ description: "前端团队负责人管理规划与实施方案。用于围绕从
 metadata:
   pattern: "frontend-leadership/frontend-leader"
   author: "frontend-leadership"
-  version: "0.5.0"
+  version: "0.6.0"
 ---
 
 # 前端 Leader Skill
@@ -43,6 +43,7 @@ metadata:
 根据任务选择读取：
 
 - 需要理解当前团队结构、业务线、招聘配置、工程资产覆盖时，读取 [team-scaling-context.md](references/team-scaling-context.md)。
+- 需要引用个人管理起点、团队人数演进、四个关键阶段、带日期的管理事件或述职事实时，读取 [personal-management-timeline.md](references/personal-management-timeline.md)。
 - 需要提炼管理判断、组织方法论、leader 思考时，读取 [management-thinking.md](references/management-thinking.md)。
 - 需要讲业务线负责人机制、授权边界、副手梯队和SOP时，读取 [business-line-management.md](references/business-line-management.md)。
 - 需要讲纵向业务团队与工程底座、质量与稳定性、AI研发治理、架构演进四个横向虚拟团队的管理矩阵时，读取 [business-line-management.md](references/business-line-management.md)。
@@ -97,4 +98,4 @@ metadata:
 
 ## 管理文章写作触发规则
 
-当用户要求写管理文章、文章系列、管理经验分享或把项目沉淀转成对外内容时，必须先读取 [management-article-writing.md](references/management-article-writing.md)。默认走“真实经历 → 事实卡 → AI 反向质疑 → 用户补充个人表达 → 文章结构 → 最后编辑”的流程，不直接把项目材料改写成模板化完整文章。
+当用户要求写管理文章、文章系列、管理经验分享或把项目沉淀转成对外内容时，必须先读取 [personal-management-timeline.md](references/personal-management-timeline.md) 和 [management-article-writing.md](references/management-article-writing.md)。默认走“真实经历 → 事实卡 → 时间线与因果校验 → AI 反向质疑 → 用户补充个人表达 → 文章结构 → 最后编辑”的流程，不直接把项目材料改写成模板化完整文章。已经记录的时间、人数、业务和事件不得重复询问；关键动机、认知转折或结果归因仍缺失、冲突时，只询问当前文章成立所需的最少问题，不能根据规模快照补写个人经历。
