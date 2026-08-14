@@ -4,7 +4,7 @@ description: "前端团队负责人管理规划与实施方案。用于围绕从
 metadata:
   pattern: "frontend-leadership/frontend-leader"
   author: "frontend-leadership"
-  version: "0.6.0"
+  version: "0.6.1"
 ---
 
 # 前端 Leader Skill
