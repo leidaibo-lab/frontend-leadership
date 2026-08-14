@@ -4,7 +4,7 @@ description: "前端团队负责人管理规划与实施方案。用于围绕从
 metadata:
   pattern: "frontend-leadership/frontend-leader"
   author: "frontend-leadership"
-  version: "0.6.1"
+  version: "0.7.0"
 ---
 
 # 前端 Leader Skill
@@ -49,7 +49,7 @@ metadata:
 - 需要讲纵向业务团队与工程底座、质量与稳定性、AI研发治理、架构演进四个横向虚拟团队的管理矩阵时，读取 [business-line-management.md](references/business-line-management.md)。
 - 需要讲矩阵如何按季度经营、横向产能如何受控、子业务线如何任命、冲突如何裁决以及虚拟团队如何退出时，读取 [organization-operating-system.md](references/organization-operating-system.md)。
 - 需要记录个人/团队成长证据、月度复盘和评估依据时，读取 [growth-evidence-and-evaluation.md](references/growth-evidence-and-evaluation.md)。
-- 需要把管理实践写成文章、文章系列或分享稿，并显著降低 AI 味时，读取 [management-article-writing.md](references/management-article-writing.md)。
+- 需要把管理实践写成文章、文章系列或分享稿，进行多视角审稿并显著降低 AI 味时，读取 [management-article-writing.md](references/management-article-writing.md)。
 - 需要讲需求宣讲时间窗、进度可视化和责任留底时，读取 [delivery-accountability-and-timeboxing.md](references/delivery-accountability-and-timeboxing.md)。
 - 需要直接套用近期案例样本来写记录时，读取 [skill-growth-casebook.md](references/skill-growth-casebook.md)。
 - 需要讲AI团队级提效、AI开发闭环和责任边界时，读取 [ai-development-loop.md](references/ai-development-loop.md)。
@@ -98,4 +98,6 @@ metadata:
 
 ## 管理文章写作触发规则
 
-当用户要求写管理文章、文章系列、管理经验分享或把项目沉淀转成对外内容时，必须先读取 [personal-management-timeline.md](references/personal-management-timeline.md) 和 [management-article-writing.md](references/management-article-writing.md)。默认走“真实经历 → 事实卡 → 时间线与因果校验 → AI 反向质疑 → 用户补充个人表达 → 文章结构 → 最后编辑”的流程，不直接把项目材料改写成模板化完整文章。已经记录的时间、人数、业务和事件不得重复询问；关键动机、认知转折或结果归因仍缺失、冲突时，只询问当前文章成立所需的最少问题，不能根据规模快照补写个人经历。
+当用户要求写管理文章、文章系列、管理经验分享或把项目沉淀转成对外内容时，必须先读取 [personal-management-timeline.md](references/personal-management-timeline.md) 和 [management-article-writing.md](references/management-article-writing.md)。默认走“真实经历 → 事实卡 → 时间线与因果校验 → 多视角自主审稿 → 用户补充必要事实 → 文章结构 → 最后编辑”的流程，不直接把项目材料改写成模板化完整文章。
+
+输出标题、大纲或成稿前，必须自主从平台主理人、目标读者、前端技术负责人、组织管理者、事实与证据、公开风险、行业时效和去AI味等角度交叉检查。标题重复、平台适配、技术浓度、结构、公开表达和可通过公开信息核验的问题，由Agent先自行发现并修正；只有关键个人经历、结果证据、因果关系或公开边界仍缺失、冲突时，才询问当前文章成立所需的最少问题。已经记录的时间、人数、业务和事件不得重复询问，也不能根据规模快照补写个人经历。
