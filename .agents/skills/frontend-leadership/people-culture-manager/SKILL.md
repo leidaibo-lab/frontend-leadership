@@ -43,7 +43,8 @@ metadata:
 
 ## 常用工具与文档 (References & Assets)
 *   [frontend-recruitment-manual.md](references/frontend-recruitment-manual.md): 招聘手册
-*   [frontend-leveling-standards.md](references/frontend-leveling-standards.md): P2-P5 前端职级能力、定级与校准标准
+*   [frontend-leveling-standards.md](references/frontend-leveling-standards.md): 面向全员公开的 P2-P5 职级标准，含 P4-P5 技术与管理双通道、分职级实践和人才发展要求
+*   [frontend-leveling-review-baseline.md](references/frontend-leveling-review-baseline.md): 面向负责人和评审者的证据认定、长期治理等价证据、分歧复核和结果反馈规则
 *   [2026-interview-question-bank.md](references/2026-interview-question-bank.md): 面试题库
 *   [1v1-cheat-sheet.md](references/1v1-cheat-sheet.md): 1v1 沟通速查表
 *   [sensitive-collaboration-feedback.md](references/sensitive-collaboration-feedback.md): 涉及个人的敏感协作反馈处理机制

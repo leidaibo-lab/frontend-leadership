@@ -49,6 +49,7 @@ metadata:
 - 需要讲纵向业务团队与工程底座、质量与稳定性、AI研发治理、架构演进四个横向虚拟团队的管理矩阵时，读取 [business-line-management.md](references/business-line-management.md)。
 - 需要讲矩阵如何按季度经营、横向产能如何受控、子业务线如何任命、冲突如何裁决以及虚拟团队如何退出时，读取 [organization-operating-system.md](references/organization-operating-system.md)。
 - 需要记录个人/团队成长证据、月度复盘和评估依据时，读取 [growth-evidence-and-evaluation.md](references/growth-evidence-and-evaluation.md)。
+- 需要建立价值证据台账、记录结果基线、证据等级、季度汇总和对外表达边界时，读取 [value-evidence-ledger-template.md](references/value-evidence-ledger-template.md)。
 - 需要把管理实践写成文章、文章系列或分享稿，进行多视角审稿并显著降低 AI 味时，读取 [management-article-writing.md](references/management-article-writing.md)。
 - 需要讲需求宣讲时间窗、进度可视化和责任留底时，读取 [delivery-accountability-and-timeboxing.md](references/delivery-accountability-and-timeboxing.md)。
 - 需要直接套用近期案例样本来写记录时，读取 [skill-growth-casebook.md](references/skill-growth-casebook.md)。
