@@ -4,7 +4,7 @@ description: "组织与人才官。统管【选、用、育、留】全周期。
 metadata:
   pattern: "frontend-leadership/people-culture-manager"
   author: "frontend-leadership"
-  version: "0.3.0"
+  version: "0.3.1"
 ---
 
 # 组织与人才官 (People & Culture Manager)
@@ -46,11 +46,11 @@ metadata:
 *   [frontend-leveling-standards.md](references/frontend-leveling-standards.md): 面向全员公开的 P2-P5 职级标准，含 P4-P5 技术与管理双通道、分职级实践和人才发展要求
 *   [frontend-leveling-review-baseline.md](references/frontend-leveling-review-baseline.md): 面向负责人和评审者的证据认定、长期治理等价证据、分歧复核和结果反馈规则
 *   [2026-interview-question-bank.md](references/2026-interview-question-bank.md): 面试题库
-*   [1v1-cheat-sheet.md](references/1v1-cheat-sheet.md): 1v1 沟通速查表
+*   [1v1-cheat-sheet.md](references/1v1-cheat-sheet.md): 按问题选择沟通方式的 1v1 速查表，配套成长与支持记录
 *   [sensitive-collaboration-feedback.md](references/sensitive-collaboration-feedback.md): 涉及个人的敏感协作反馈处理机制
 *   [team-management-playbook.md](references/team-management-playbook.md): 团队管理手册
 *   [fundamental-qa-guide.md](references/fundamental-qa-guide.md): 前端基础面试题与评分标准
 *   [interviewer-alignment-guide.md](references/interviewer-alignment-guide.md): 面试官对齐指南
 *   [staffing-stability-guide.md](references/staffing-stability-guide.md): 临时调动与项目稳定性
-*   [interview-evaluation-form.md](assets/interview-evaluation-form.md): 分职级前端面试评分表 (模板)
-*   [1v1-meeting-template.md](assets/1v1-meeting-template.md): 1v1 会议模板 (模板)
+*   [interview-evaluation-form.md](assets/interview-evaluation-form.md): 对齐职级标准的六维面试评分与证据模板，区分子级、主通道、能力结论与录用建议
+*   [1v1-meeting-template.md](assets/1v1-meeting-template.md): 成长与支持沟通模板，记录事实、成员回应、责任机会、双方承诺与复核安排
