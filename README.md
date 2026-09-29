@@ -1,19 +1,54 @@
-# Leader
+# Frontend Leadership · 前端负责人实战手册与 AI Skills
 
-面向前端负责人的组织治理与 AI 研发协作知识库。
+面向前端负责人与技术管理者，提供团队管理、职级评审、人才培养和 AI 研发协作的参考材料、模板与使用指南。
 
-这里沉淀从小团队走向 30+ 人规模时可以复用的管理方法、责任机制、人才标准、工程底座和 AI 开发治理实践。内容不是泛泛的管理口号，而是围绕真实团队场景整理的 Skill、参考材料、模板和阶段性产出物。
+你可以从一份评审标准或证据记录模板开始，也可以让 AI 读取仓库中的 Skill，结合你的实际情况辅助整理管理方案。规模化治理部分提供了从小团队走向 30+ 人、多业务线组织的实践参考。
 
-## 适合谁
+[立即使用](#立即使用) · [AI 辅助管理](#ai-辅助管理) · [深入阅读](#深入阅读) · [完整 Skill 索引](.agents/skills/README.md)
 
-- 正在从直接管理需求转向管理业务线和负责人的前端负责人
-- 需要建设职级、人才梯队、评审和团队运行机制的技术负责人
-- 希望把 AI 从个人工具使用推进为团队研发治理闭环的工程管理者
-- 需要可直接参考的组织设计、工程效能和管理文档的团队
+## 立即使用
 
-## 从这里开始
+选择一个当前要解决的问题，打开对应资料：
 
-按你的问题选择入口：
+| 你要做什么 | 入口 | 第一步 |
+| --- | --- | --- |
+| 理解职级责任、梳理成长方向 | [前端岗位职级标准与发展指南](.agents/skills/frontend-leadership/people-culture-manager/references/frontend-leveling-standards.md) | 对照 P2-P5 的责任范围，梳理当前职责与目标职级的差距 |
+| 准备职级评审、统一评审依据 | [前端职级评审、定级与校准基线](.agents/skills/frontend-leadership/people-culture-manager/references/frontend-leveling-review-baseline.md) | 按评审输入整理事实、个人贡献和持续结果证据 |
+| 准备复盘或述职，记录工作价值 | [价值证据台账模板](.agents/skills/frontend-leadership/frontend-leader/references/value-evidence-ledger-template.md) | 选择一件已完成的工作，填写一张单条价值证据卡 |
+
+职级与评审材料基于特定组织场景整理，使用时先对齐自己团队的岗位职责、职级体系和授权范围。记录工作结果时保留基线、统计周期和证据出处。
+
+## AI 辅助管理
+
+仓库中的 Skill 定义了任务处理方法，并指向相关资料。先将仓库克隆或下载到本地，用能够读取项目文件的 AI 编程助手打开仓库目录；按下面的示例明确要求读取文件即可，不依赖工具自动识别 Skill。
+
+### 试一次：把工作记录整理成价值证据卡
+
+将以下输入复制给助手，并把方括号替换为自己的实际信息。这是任务输入示例，输出需要结合原始记录核对。
+
+```text
+请先读取 AGENTS.md 和 .agents/skills/README.md，再读取：
+.agents/skills/frontend-leadership/frontend-leader/SKILL.md
+.agents/skills/frontend-leadership/frontend-leader/references/value-evidence-ledger-template.md
+
+请根据以下事实，帮我整理一张价值证据卡：
+- 工作事项：[最近完成的一件具体工作]
+- 背景与目标：[当时的问题，以及希望改善什么]
+- 我的责任和关键判断：[本人负责什么，做过哪些取舍]
+- 团队及协作方贡献：[其他人完成的部分]
+- 已知结果与证据：[前后变化、统计周期、可核对的记录]
+- 当前缺失的信息：[尚未统计或无法确认的内容]
+
+请按模板输出证据卡草稿，并列出待补证据与需要我确认的判断。
+缺失内容标注“待补充”，不要编造数据、因果关系或已完成的成果。
+仓库中的团队背景与案例仅作方法参考，不代表我的实际经历。
+```
+
+拿到草稿后，重点核对结果是否有证据支撑、个人与团队贡献是否分清、哪些判断仍需验证。其他任务可从[完整 Skill 索引](.agents/skills/README.md)选择组织、人才或技术效能方向。
+
+## 深入阅读
+
+需要设计团队运行机制或推进研发协作时，再按问题阅读以下材料，并结合团队规模、管理授权和业务阶段调整：
 
 | 你正在解决的问题 | 推荐阅读 |
 | --- | --- |
@@ -21,8 +56,6 @@
 | 如何在固定大团队内扩展多个子业务线 | [前端负责人管理业务线的方法](.agents/skills/frontend-leadership/frontend-leader/references/business-line-management.md) |
 | 如何规划团队规模化建设路线 | [前端团队规模化实施路线图](.agents/skills/frontend-leadership/frontend-leader/references/implementation-roadmap.md) |
 | 如何把 AI 纳入需求、开发、审查和复盘流程 | [前端 AI 开发治理闭环](.agents/skills/frontend-leadership/frontend-leader/references/ai-development-loop.md) |
-| 如何建立可复核的职级与评审标准 | [前端岗位职级标准与发展指南](.agents/skills/frontend-leadership/people-culture-manager/references/frontend-leveling-standards.md) |
-| 如何按事实记录团队和个人价值 | [价值证据台账模板](.agents/skills/frontend-leadership/frontend-leader/references/value-evidence-ledger-template.md) |
 
 ## 核心内容
 
@@ -47,13 +80,6 @@
 - 需求澄清、方案评审、代码审查、自测和知识沉淀
 - AI API 网关、产研协作和组织升级实践
 
-## 这个仓库的特点
-
-1. **以责任和结果为主线**：不只记录做过什么，更说明谁负责、如何判断、如何验收。
-2. **以机制替代个人英雄主义**：把管理经验整理成负责人机制、SOP、评审标准和运行节奏。
-3. **以可复用资产为交付物**：优先沉淀 Skill、模板、清单、路线图和案例，而不是只写观点。
-4. **以真实约束为背景**：关注团队规模、业务线变化、授权边界、质量风险和长期维护成本。
-
 ## 目录结构
 
 ```text
@@ -67,20 +93,7 @@
 └── outputs/                          # 阶段性文档与制度草案
 ```
 
-## 使用方式
-
-### 人阅读
-
-先从“从这里开始”选择一个具体问题，再沿着文档中的引用继续阅读。建议不要一次性通读全部内容，而是围绕当前团队问题抽取责任边界、运行节奏和验收证据。
-
-### Agent 使用
-
-`.agents/skills/` 是本仓库唯一的 Skill 主资产源。使用支持 Skill 路由的 Agent 时：
-
-1. 先读取 `.agents/skills/README.md`。
-2. 根据任务选择对应目录下的 `SKILL.md`。
-3. 只加载该 Skill 指向的必要参考材料、模板或资产。
-4. 输出时优先复用仓库中已有的口径、清单和案例。
+所有可复用 Skill、参考材料和模板统一维护在 `.agents/skills/`，完整使用与维护规则见 [AGENTS.md](AGENTS.md)。
 
 ## 参与和反馈
 
