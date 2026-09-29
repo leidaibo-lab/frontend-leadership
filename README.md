@@ -55,6 +55,7 @@
 | 团队超过 30 人后，如何保持稳定交付 | [30 人前端团队可经营组织运行系统](.agents/skills/frontend-leadership/frontend-leader/references/organization-operating-system.md) |
 | 如何在固定大团队内扩展多个子业务线 | [前端负责人管理业务线的方法](.agents/skills/frontend-leadership/frontend-leader/references/business-line-management.md) |
 | 如何规划团队规模化建设路线 | [前端团队规模化实施路线图](.agents/skills/frontend-leadership/frontend-leader/references/implementation-roadmap.md) |
+| AI Coding 如何逐步进入工程化与产研协作 | [AI Coding 跃迁：四图与实践说明](.agents/skills/frontend-leadership/tech-efficiency-architect/references/ai-coding-evolution.md) |
 | 如何把 AI 纳入需求、开发、审查和复盘流程 | [前端 AI 开发治理闭环](.agents/skills/frontend-leadership/frontend-leader/references/ai-development-loop.md) |
 
 ## 核心内容

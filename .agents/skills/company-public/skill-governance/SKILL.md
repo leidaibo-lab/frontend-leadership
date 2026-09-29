@@ -1,10 +1,10 @@
 ---
 name: "company-public-skill-governance"
-description: "公司级 Skill 创建与治理规范。用于校验 .agents/skills 下 Skill 是否符合 seakoi/skills 风格的两级目录、命名、metadata、中文正文、引用归属和前端负责人架构思考类文档归档要求。"
+description: "公司级 Skill 创建与治理规范。用于校验 .agents/skills 下的两级目录、命名、metadata、中文正文和引用归属，以及规划 AI Coding 中 Skill 的场景、数量、职责与按需加载。"
 metadata:
   pattern: "company-public/skill-governance"
   author: "company-public"
-  version: "0.1.0"
+  version: "0.2.0"
 ---
 
 # Skill 治理规范
@@ -34,6 +34,7 @@ metadata:
 - 需要判断对话中的哪些共识应主动沉淀到 Skill 时，读取 [conversation-to-skill-capture.md](references/conversation-to-skill-capture.md)。
 - 需要设计单个 Skill 的内容规范时，读取 [single-skill-specification.md](references/single-skill-specification.md)。
 - 需要设计可插拔 AI Skill 架构时，读取 [pluggable-ai-skills-architecture.md](references/pluggable-ai-skills-architecture.md)。
+- 需要规划 AI Coding 中需求、设计、开发、提测的 Skill 数量、职责和按需加载时，读取 [ai-coding-skills-planning.md](references/ai-coding-skills-planning.md)，配图见 [ai-coding-skills-structure.png](assets/ai-coding-skills-structure.png)。
 
 ## 更新要求
 

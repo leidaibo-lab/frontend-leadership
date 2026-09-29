@@ -1,10 +1,10 @@
 ---
 name: "frontend-leadership-tech-efficiency-architect"
-description: "技术与效能官。统管【架构、基建、AI、质量】全周期。当用户询问技术选型、架构设计、效能提升、AI工具或技术债务时调用。"
+description: "技术与效能官。统管【架构、基建、AI、质量】全周期。用于技术选型、架构设计、效能提升、AI Coding 跃迁、产研协作、Harness 工程及技术债务。"
 metadata:
   pattern: "frontend-leadership/tech-efficiency-architect"
   author: "frontend-leadership"
-  version: "0.1.2"
+  version: "0.2.1"
 ---
 
 # 技术与效能官 (Tech & Efficiency Architect)
@@ -43,11 +43,18 @@ metadata:
 *   **能力可经营**: 工程底座、质量与稳定性、AI研发治理、架构演进必须有单点负责人、季度结果、最低产能和转交退出机制。
 
 ## 常用工具与文档 (References & Assets)
-*   [frontend-ai-efficiency-framework.md](references/frontend-ai-efficiency-framework.md): AI 效能框架
-*   [ai-strategy-roadmap.md](references/ai-strategy-roadmap.md): AI 战略路线图
-*   [ai-api-gateway-implementation-playbook.md](references/ai-api-gateway-implementation-playbook.md): 公司 AI API 网关落地推进手册，覆盖统一入口、成本治理、权限审计、稳定性和分人群价值表达
-*   [ai-driven-product-rd-organization-upgrade.md](references/ai-driven-product-rd-organization-upgrade.md): AI 驱动产研组织升级操作系统总纲，统一 AI 后续方向、前端样板边界、组织机制、治理评估和阶段规划
-*   [ai-product-rd-collaboration-architecture.md](references/ai-product-rd-collaboration-architecture.md): AI 驱动产研协作架构、沟通成本治理、质量反推和基础治理
+*   编写或整理面向读者的 AI 实践文档、架构说明与分享稿前，读取[管理文章写作与降 AI 味](../frontend-leader/references/management-article-writing.md)，统一使用其中的视角、图文与事实边界规则。
+*   [ai-coding-evolution.md](references/ai-coding-evolution.md): AI Coding 跃迁统一入口，按递进节奏、产研组织升级、AI 实践架构与 Skills 规划串联四张图
+*   [ai-organization-operating-model-sharing.md](references/ai-organization-operating-model-sharing.md): 已开展的“AI 驱动组织运行模式升级讨论”内部分享，含协作分工、三个试点建议与分享页面留存；试点启动和效果尚未记录
+*   [frontend-ai-efficiency-framework.md](references/frontend-ai-efficiency-framework.md): 前端 AI 效能验证框架，覆盖五个研发节点、人工确认、基线与成本记录
+*   [ai-strategy-roadmap.md](references/ai-strategy-roadmap.md): 前端 AI 实践路线图，说明试点、跨角色协作、资源和阶段复盘
+*   [ai-api-gateway-implementation-playbook.md](references/ai-api-gateway-implementation-playbook.md): 公司 AI API 网关建设与验收参考，覆盖统一入口、成本治理、权限审计、稳定性和角色分工
+*   [ai-driven-product-rd-organization-upgrade.md](references/ai-driven-product-rd-organization-upgrade.md): AI 驱动产研组织升级（构思-实践版），含组织运行升级、目标、思想、治理评估
+*   [ai-product-rd-collaboration-overview.png](assets/ai-product-rd-collaboration-overview.png): 产研协作与前端实践原图，展示建设目标、运行原则与治理评估；与总纲共用
+*   [ai-product-rd-collaboration-architecture.md](references/ai-product-rd-collaboration-architecture.md): 前端 AI 实践与 Harness 工程，含跨角色材料、支撑能力、V1.0/V2.0 流程与验证反馈
+*   [ai-coding-progression.png](assets/ai-coding-progression.png): AI 递进节奏原图，终点为工程化建设
+*   [ai-practice-harness-architecture.png](assets/ai-practice-harness-architecture.png): AI 实践架构原图，含输入来源及两版实践流程
+*   [ai-coding-skills-planning.md](../../company-public/skill-governance/references/ai-coding-skills-planning.md): 按需求、设计、开发、提测规划 Skills 的场景、数量、触发与职责
 *   [observability-and-stability-governance.md](references/observability-and-stability-governance.md): Sentry 环境区分与稳定性治理
 *   [base-asset-playbook.md](references/base-asset-playbook.md): 基础资产建设与业务推行
 *   [organization-operating-system.md](../frontend-leader/references/organization-operating-system.md): 四个横向能力方向的产能、结果、节奏、冲突和退出规则
