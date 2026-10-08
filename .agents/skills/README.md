@@ -54,6 +54,12 @@
 | company-public-skill-governance | `company-public/skill-governance/SKILL.md` | Skill 创建规范、目录质量校验、文档归属整理、对话共识建议录入、AI Coding 的 Skills 场景与数量规划 |
 | company-public-wf-openspec-mode | `company-public/wf-openspec-mode/SKILL.md` | AI 落地到真实项目的 OpenSpec/SDD 思路参考、proposal/spec/tasks 机制理解、模型选择；当前 leader 项目不作为强制实践工作流 |
 
+## 可视化类
+
+| Skill | 入口 | 适用场景 |
+| --- | --- | --- |
+| visualization-mermaid-style | `visualization/mermaid-style/SKILL.md` | 中文 Mermaid 流程图的统一主题、布局、语义配色和可读性规则 |
+
 ## 更新要求
 
 - 新增、移动、删除 Skill 时，同步更新本索引。

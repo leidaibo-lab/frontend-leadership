@@ -33,4 +33,5 @@
 - 招聘、面试、绩效、1v1、人才梯队、团队稳定性、敏感反馈、高情商沟通：读取 `.agents/skills/frontend-leadership/people-culture-manager/SKILL.md`。
 - 架构、基建、组件库、监控稳定性、AI 效能、质量治理、横向能力可经营机制、AI Coding 跃迁四图总览、产研组织升级、AI 实践与 Harness 工程：读取 `.agents/skills/frontend-leadership/tech-efficiency-architect/SKILL.md`。
 - Skill 创建规范、目录质量校验、前端负责人文档归属整理、对话共识建议录入、AI Coding 的 Skills 场景与数量规划：读取 `.agents/skills/company-public/skill-governance/SKILL.md`。
+- 中文 Mermaid 流程图的主题、布局、语义配色和可读性规则：读取 `.agents/skills/visualization/mermaid-style/SKILL.md`。
 - AI 落地到真实项目的 OpenSpec/SDD 思路、proposal/spec/tasks 机制理解、模型选择：读取 `.agents/skills/company-public/wf-openspec-mode/SKILL.md`；当前 leader 项目不作为强制实践工作流。
