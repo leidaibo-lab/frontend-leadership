@@ -1,6 +1,6 @@
 # 通用线上事故响应流程
 
-> 版本：V1.11（草案）
+> 版本：V1.12（草案）
 >
 > 适用范围：前端、后端、测试、运维、产品、运营等角色参与的线上事故响应
 
@@ -105,6 +105,30 @@
 ## 四、通用事故响应流程
 
 ```mermaid
+%%{init: {
+  "theme": "base",
+  "themeVariables": {
+    "background": "#FFFFFF",
+    "fontFamily": "PingFang SC, Microsoft YaHei, sans-serif",
+    "fontSize": "14px",
+    "primaryColor": "#EAF2FF",
+    "primaryTextColor": "#17324D",
+    "primaryBorderColor": "#4D7CFE",
+    "lineColor": "#7A8AA0",
+    "edgeLabelBackground": "#FFFFFF",
+    "clusterBkg": "#F7F9FC",
+    "clusterBorder": "#D9E2EC"
+  },
+  "flowchart": {
+    "htmlLabels": true,
+    "curve": "basis",
+    "nodeSpacing": 32,
+    "rankSpacing": 46,
+    "padding": 16,
+    "useMaxWidth": true
+  }
+}}%%
+
 flowchart TD
     A[发现线上异常<br/>监控、用户反馈、业务反馈、团队发现]
 
@@ -170,6 +194,20 @@ flowchart TD
     AE --> AF[事故复盘<br/>事实、影响、判断、处置和责任边界]
     AF --> AG[形成改进项<br/>负责人、截止时间、验收标准]
     AG --> AH[验证改进效果<br/>演练、抽查、监控或后续数据]
+
+    classDef trigger fill:#EAF2FF,stroke:#4D7CFE,color:#17324D,stroke-width:1.5px;
+    classDef decision fill:#FFF4DF,stroke:#E6A23C,color:#6B4300,stroke-width:1.5px;
+    classDef stop fill:#FFF0F0,stroke:#E45757,color:#6B1F1F,stroke-width:1.5px;
+    classDef action fill:#EFF8F1,stroke:#4CAF6A,color:#1F4D2B,stroke-width:1.5px;
+    classDef verify fill:#F1ECFF,stroke:#8064D8,color:#352266,stroke-width:1.5px;
+    classDef record fill:#F5F7FA,stroke:#98A2B3,color:#344054,stroke-width:1.5px;
+
+    class A,B,C,E,F,G,H trigger;
+    class D,I,J,R,W,Y,AA decision;
+    class K stop;
+    class L,M,N,O,P,Q,S,T action;
+    class U,V,X,Z,AB,AC,AD verify;
+    class AE,AF,AG,AH record;
 ```
 
 ## 五、阶段职责
