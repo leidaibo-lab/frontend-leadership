@@ -24,6 +24,10 @@
 
 ### 写作与图文整理规则
 
+事故管理通报：[线上问题通报层级参考](frontend-leadership/org-architect/references/incident-notification-levels.md)。适用于 P0/P1 同步 CTO、CTO 判断老板知情范围，以及历史通报口径与现行 SOP 的衔接。
+
+管理事实来源：[个人管理时间线](frontend-leadership/frontend-leader/references/personal-management-timeline.md)。已记录线上事故响应机制完成宣讲、团队认可及后续版本管理安排；演练计划与实际效果分别记录，宣讲日期待补。
+
 | 资料 | 入口 | 适用场景 |
 | --- | --- | --- |
 | 管理文章写作与降 AI 味 | [management-article-writing.md](frontend-leadership/frontend-leader/references/management-article-writing.md) | 文章、分享稿、AI 实践文档与架构说明；区分 Agent 指令、事实材料与读者正文，清理对话残留，核对图文及实践状态 |

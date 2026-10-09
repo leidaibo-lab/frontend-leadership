@@ -4,7 +4,7 @@ description: "前端组织架构师 (顶层大脑)。统管【战略、业务、
 metadata:
   pattern: "frontend-leadership/org-architect"
   author: "frontend-leadership"
-  version: "0.2.1"
+  version: "0.2.2"
 ---
 
 # 前端组织架构师 (Frontend Organization Architect)
@@ -40,6 +40,7 @@ metadata:
 *   **调用 [tech-efficiency-architect](../tech-efficiency-architect/SKILL.md)**: 当战略落地需要架构、基建、AI 工具支持时。
 
 ## 常用工具与文档 (References & Assets)
+*   [incident-notification-levels.md](references/incident-notification-levels.md): 线上事故管理通报，P0/P1 必须同步 CTO、老板知情由 CTO 动态判断；保留历史口径并区分当前规则与待验证效果。
 *   [business-line-lead-execution-standards.md](references/business-line-lead-execution-standards.md): 业务线负责人执行标准 (SOP/Checklist)
 *   [managing-business-line-leads-guide.md](references/managing-business-line-leads-guide.md): 业务线负责人管理指南 (How to manage managers)
 *   [management-evolution-methodology.md](references/management-evolution-methodology.md): 前端管理进化论核心参考 (基于前端规模)
