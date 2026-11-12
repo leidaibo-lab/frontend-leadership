@@ -93,7 +93,7 @@ AI Coding 的推进从表达方式开始：把目标、约束和验收条件说�
 
 ### Harness 承担什么
 
-本文中的 Harness 指围绕模型执行任务的工程环境：准备上下文，组织步骤与工具，设置检查点，保留反馈并支持下次执行。
+本文中的 Harness 指围绕模型执行任务的工程环境：准备上下文，组织步骤与工具，设置检查点，保留反馈并支持下次执行。它与模型、流程编排、人工确认及可追溯事实共同构成研发 AI Agent；各部分的职责边界、资源冻结与恢复要求见[研发 AI Agent 的组成与边界](ai-product-rd-collaboration-architecture.md#研发-ai-agent-的组成与边界)。
 
 图中列出 OpenSpec、Agent.md、memory、MCP、Skills、RAG 和 context，并由 Agent.md 关联 rules。它们分别处理流程、项目约定、已确认经验、工具连接、可复用方法、资料检索和本次任务材料。图中的 Agent.md 表示项目级指导入口，本仓库对应文件为 AGENTS.md。
 
